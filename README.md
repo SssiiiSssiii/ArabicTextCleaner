@@ -1,4 +1,4 @@
 # ArabicTextCleaner
 
-![Alt text](/images/Test.png)
-![Alt text](/images/Output.png)
+![Alt text](/Images/Test.png)  
+![Alt text](/Images/Output.png)
