@@ -32,11 +32,6 @@ def remove_stop_words(tokens):
     filtered = [token for token in tokens if token not in stop_words.get_stop_words()]
     return filtered
 
-def print_stop_words(tokens):
-    stop_words = ArabicStopWords()
-    filtered = [token for token in tokens if token in stop_words.get_stop_words()]
-    return filtered
-
 def stemming(filtered_tokens):
     stemmer = ISRIStemmer()
     stemmed_tokens = [stemmer.stem(token) for token in filtered_tokens]
