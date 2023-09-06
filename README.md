@@ -1,7 +1,7 @@
 # ArabicTextCleaner
 **Do What?**
 * Tokenization: Breaking down Arabic text into individual words or tokens.                   
-* Normalization: Standardizing text by converting characters to their base forms.
+* Normalization: Standardizing text by converting characters to their base forms Additionally, the removal of non-Arabic characters.
   
   | from | to |
   | -----|----|
