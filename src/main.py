@@ -84,5 +84,5 @@ for row in range(len(sample)):
     if not sample['Text'][row]:  # check if the list is empty
         sample.drop(row, inplace=True)
 
-# Save the cleaned data to a CSV file
+# Save the cleaned data to a txt file
 sample.to_csv('output.txt', index=False)
