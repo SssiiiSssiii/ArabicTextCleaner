@@ -8,8 +8,8 @@
   | أ-إ-آ | ا |
   | ى | ي |
   | ة | ه |
-  | الْعَرَبِيَّه | العربية |
-  | العـــربيه | العربية |
+  | الْعَرَبِيَّة | العربيه |
+  | العـــربية | العربيه |
 * Stop Word Removal: Eliminating common and less informative words like articles and conjunctions.(**You can also review the text file containing stop words and make modifications as needed in the `src` file**)
                       
   ![Alt text](/Images/Sample_of_Arabic_stop_words.png)
